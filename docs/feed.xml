@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Zhichen Zhao</title>
   <subtitle></subtitle>
-  <updated>2026-01-17T13:23:20-08:00</updated>
+  <updated>2026-01-17T13:52:07-08:00</updated>
   <author>
     <name>Zhichen Zhao</name>
     <uri>http://localhost:4000/</uri>
@@ -42,14 +42,14 @@
 
   
   <entry>
-    <title>Conference: NBER NSF Time Series 2025 </title>
-    <link href="http://localhost:4000/posts/NBERNSF/" rel="alternate" type="text/html" title="Conference: NBER NSF Time Series 2025 " />
-    <published>2025-09-19T00:00:00-07:00</published>
+    <title>Paper Accepted: Bootstrap Prediction Inference of Nonlinear Autoregressive Models</title>
+    <link href="http://localhost:4000/posts/JSTA1/" rel="alternate" type="text/html" title="Paper Accepted: Bootstrap Prediction Inference of Nonlinear Autoregressive Models" />
+    <published>2024-04-01T00:00:00-07:00</published>
   
-    <updated>2025-09-19T00:00:00-07:00</updated>
+    <updated>2024-04-01T00:00:00-07:00</updated>
   
-    <id>http://localhost:4000/posts/NBERNSF/</id>
-    <content type="text/html" src="http://localhost:4000/posts/NBERNSF/" />
+    <id>http://localhost:4000/posts/JSTA1/</id>
+    <content type="text/html" src="http://localhost:4000/posts/JSTA1/" />
     <author>
       <name>Zhichen Zhao</name>
     </author>
@@ -58,20 +58,20 @@
     
   
 
-  <summary>I am glad to present my Poster at workshop on NBER NSF Time Series Conference 2025 at Rutgers University. This poster is based on joint work with Professor Sayar Karmakar and Professor Rangan Gupta.  In addition, my Ph.D. advisor Professor Dimitris Politis gave an invited talk based on our Bootstrap prediction inference of nonlinea autoregressive models.</summary>
+  <summary>Abstract  The nonlinear autoregressive (NLAR) model plays an important role in modeling and predicting time series. One-step ahead prediction is straightforward using the NLAR model, but the multi-step ahead prediction is cumbersome. For instance, iterating the one-step ahead predictor is a convenient strategy for linear autoregressive (LAR) models, but it is suboptimal under NLAR. In this arti...</summary>
 
   </entry>
 
   
   <entry>
-    <title>My First Academia Job, Assistant Professor at Loyola University Chicago</title>
-    <link href="http://localhost:4000/posts/firstjob/" rel="alternate" type="text/html" title="My First Academia Job, Assistant Professor at Loyola University Chicago" />
-    <published>2025-08-11T00:00:00-07:00</published>
+    <title>Receive Richard Libby Graduate Research Award</title>
+    <link href="http://localhost:4000/posts/Richard-Libby-Research-Award/" rel="alternate" type="text/html" title="Receive Richard Libby Graduate Research Award" />
+    <published>2022-05-04T00:00:00-07:00</published>
   
-    <updated>2025-08-11T00:00:00-07:00</updated>
+    <updated>2022-05-04T00:00:00-07:00</updated>
   
-    <id>http://localhost:4000/posts/firstjob/</id>
-    <content type="text/html" src="http://localhost:4000/posts/firstjob/" />
+    <id>http://localhost:4000/posts/Richard-Libby-Research-Award/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Richard-Libby-Research-Award/" />
     <author>
       <name>Zhichen Zhao</name>
     </author>
@@ -80,51 +80,7 @@
     
   
 
-  <summary>I am glad to join the Department of Mathematics and Statistics, Loyola University Chicago, as an Assistant Professor in Aug. 2025.    My Research Statement and Teaching Statement at that moment.  Hope I can keep moving forward!</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Paper Accepted: GARCHX-NoVaS: A Bootstrap-Based Approach of Forecasting for GARCHX Models</title>
-    <link href="http://localhost:4000/posts/JoF/" rel="alternate" type="text/html" title="Paper Accepted: GARCHX-NoVaS: A Bootstrap-Based Approach of Forecasting for GARCHX Models" />
-    <published>2025-05-13T00:00:00-07:00</published>
-  
-    <updated>2025-05-13T00:00:00-07:00</updated>
-  
-    <id>http://localhost:4000/posts/JoF/</id>
-    <content type="text/html" src="http://localhost:4000/posts/JoF/" />
-    <author>
-      <name>Zhichen Zhao</name>
-    </author>
-
-  
-    
-  
-
-  <summary>Abstract  In this work, we explore the forecasting ability of a recently proposed normalizing and variance-stabilizing (NoVaS) transforma-tion with the possible inclusion of exogenous variables in GARCH volatility specification. The NoVaS prediction method, whichis inspired by a model-free prediction principle, has generally shown more accurate, stable and robust (to misspecifications)performan...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Passed the Defense Talk of My Ph.D.</title>
-    <link href="http://localhost:4000/posts/PhdGot/" rel="alternate" type="text/html" title="Passed the Defense Talk of My Ph.D." />
-    <published>2025-04-17T00:00:00-07:00</published>
-  
-    <updated>2025-04-17T00:00:00-07:00</updated>
-  
-    <id>http://localhost:4000/posts/PhdGot/</id>
-    <content type="text/html" src="http://localhost:4000/posts/PhdGot/" />
-    <author>
-      <name>Zhichen Zhao</name>
-    </author>
-
-  
-    
-  
-
-  <summary>I am glad to pass my defense talk of my Ph.D. in Statistics at University of California San Diego.     Thanks to my parents.   Thanks to my advisor Dimitris Politis and my committee members Danna Zhang, Ery Arias-Castro and Yian Ma.   Thanks to all my friends.   Defense Talk Slides</summary>
+  <summary>I am glad to receive the Richard Libby Graduate Research Award which supports my research for Summer 2022.  Thanks to Richard Libby!</summary>
 
   </entry>
 

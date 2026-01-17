@@ -10,69 +10,6 @@
   },
   
   {
-    "title": "Conference: NBER NSF Time Series 2025 ",
-    "url": "/posts/NBERNSF/",
-    "categories": "",
-    "tags": "",
-    "date": "2025-09-19 00:00:00 -0700",
-    "content": "I am glad to present my Poster at workshop on NBER NSF Time Series Conference 2025 at Rutgers University. This poster is based on joint work with Professor Sayar Karmakar and Professor Rangan Gupta.  In addition, my Ph.D. advisor Professor Dimitris Politis gave an invited talk based on our Bootstrap prediction inference of nonlinea autoregressive models."
-  },
-  
-  {
-    "title": "My First Academia Job, Assistant Professor at Loyola University Chicago",
-    "url": "/posts/firstjob/",
-    "categories": "",
-    "tags": "",
-    "date": "2025-08-11 00:00:00 -0700",
-    "content": "I am glad to join the Department of Mathematics and Statistics, Loyola University Chicago, as an Assistant Professor in Aug. 2025.    My Research Statement and Teaching Statement at that moment.  Hope I can keep moving forward!"
-  },
-  
-  {
-    "title": "Paper Accepted: GARCHX-NoVaS: A Bootstrap-Based Approach of Forecasting for GARCHX Models",
-    "url": "/posts/JoF/",
-    "categories": "",
-    "tags": "",
-    "date": "2025-05-13 00:00:00 -0700",
-    "content": "Abstract  In this work, we explore the forecasting ability of a recently proposed normalizing and variance-stabilizing (NoVaS) transforma-tion with the possible inclusion of exogenous variables in GARCH volatility specification. The NoVaS prediction method, whichis inspired by a model-free prediction principle, has generally shown more accurate, stable and robust (to misspecifications)performance than that compared with classical GARCH-type methods. We derive the NoVaS transformation needed to includeexogenous covariates and then construct the corresponding prediction procedure for multiple exogenous covariates. We addressboth point and interval forecasts using NoVaS type methods. We show through extensive simulation studies that bolster ourclaim that the NoVaS method outperforms traditional ones, especially for long-term time aggregated predictions. We also exhibithow our method could utilize geopolitical risks in forecasting volatility in national stock market indices. From an applied point-of-view for practitioners and policymakers, our methodology provides a distribution-free approach to forecast volatility and shedslight on how to leverage extra knowledge such as fundamentals- and sentiments-based information to improve the predictionaccuracy of market volatility."
-  },
-  
-  {
-    "title": "Passed the Defense Talk of My Ph.D.",
-    "url": "/posts/PhdGot/",
-    "categories": "",
-    "tags": "",
-    "date": "2025-04-17 00:00:00 -0700",
-    "content": "I am glad to pass my defense talk of my Ph.D. in Statistics at University of California San Diego.     Thanks to my parents.   Thanks to my advisor Dimitris Politis and my committee members Danna Zhang, Ery Arias-Castro and Yian Ma.   Thanks to all my friends.   Defense Talk Slides"
-  },
-  
-  {
-    "title": "Paper Accepted: Scalable Subsampling Inference for Deep Neural Networks",
-    "url": "/posts/JDS1/",
-    "categories": "",
-    "tags": "",
-    "date": "2025-02-01 00:00:00 -0800",
-    "content": "In my opinion, this work has a wide application on various scenrios involved neural network training.    Abstract  Deep neural networks (DNN) has received increasing attention in machine learning applications in the last several years. Recently, a non-asymptotic error bound has been developed to measure the performance of the fully connected DNN estimator with ReLU activation functions for estimating regression models. The paper at hand gives a small improvement on the current error bound based on the latest results on the approximation ability of (forward) DNN. More importantly, however, a non-random subsampling technique–scalable subsampling–is applied to construct a `subagged’  DNN estimator. Under regularity conditions, it is shown that the subagged DNN estimator is computationally efficient without sacrificing accuracy for either estimation or prediction tasks. Beyond point estimation/prediction, we propose different approaches to build confidence and prediction intervals based on the subagged DNN estimator. In addition to being asymptotically valid, the proposed confidence/prediction intervals appear to work well in  finite samples. All in all, the scalable subsampling DNN estimator offers the  complete package in terms of statistical inference, i.e.,    (a) computational efficiency;   (b) point estimation/prediction accuracy; and   (c) allowing for the construction of practically useful confidence and prediction intervals."
-  },
-  
-  {
-    "title": "Conference: NeurIPS 2024",
-    "url": "/posts/NeurIPS/",
-    "categories": "",
-    "tags": "",
-    "date": "2024-12-14 00:00:00 -0800",
-    "content": "I am glad to present two posters at workshop on Statistical Frontiers in LLMs and Foundation Models. (NeurIPS 2024 in Vancouver, British Columbia, Canada)     Poster: Deep Limit Model Free Prediction   Poster: Scalable Subsampling Inference for Deep Neural Networks"
-  },
-  
-  {
-    "title": "Paper Accepted: Climate Risks and Stock Market Volatility over a Century in an Emerging Market Economy: The Case of South Africa",
-    "url": "/posts/Climate/",
-    "categories": "",
-    "tags": "",
-    "date": "2024-05-08 00:00:00 -0700",
-    "content": "Abstract  Because climate change broadcasts a large aggregate risk to the overall macroeconomy and the global financial system, we investigate how a temperature anomaly and/or its volatility affect the accuracy of forecasts of stock return volatility. To this end, we do not apply only the classical GARCH and GARCHX models, but rather we apply newly proposed model-free prediction methods, and use GARCH-NoVaS and GARCHX-NoVaS models to compute volatility predictions. These two models are based on a normalizing and variance-stabilizing transformation (NoVaS transformation) and are guided by a so-called model-free prediction principle. Applying the new models to data for South Africa, we find that climate-related information is helpful in forecasting stock return volatility. Moreover, the novel model-free prediction method can incorporate such exogenous information better than the classical GARCH approach, as revealed by the the squared prediction errors. More importantly, the forecast comparison test reveals that the advantage of applying exogenous information related to climate risks in prediction of the South African stock return volatility is significant over a century of monthly data (February 1910–February 2023). Our findings have important implications for academics, investors, and policymakers."
-  },
-  
-  {
     "title": "Paper Accepted: Bootstrap Prediction Inference of Nonlinear Autoregressive Models",
     "url": "/posts/JSTA1/",
     "categories": "",
@@ -82,57 +19,12 @@
   },
   
   {
-    "title": "Paper Accepted: Multi-Step-Ahead Prediction Intervals for Nonparametric Autoregressions via Bootstrap: Consistency, Debiasing, and Pertinence",
-    "url": "/posts/STATDP/",
-    "categories": "",
-    "tags": "",
-    "date": "2023-08-11 00:00:00 -0700",
-    "content": "This is my first paper with my advisor Professor Politis. Thanks for his guidance!  Abstract  To address the difficult problem of the multi-step-ahead prediction of nonparametric autoregressions, we consider a forward bootstrap approach. Employing a local constant estimator, we can analyze a general type of nonparametric time-series model and show that the proposed point predictions are consistent with the true optimal predictor. We construct a quantile prediction interval that is asymptotically valid. Moreover, using a debiasing technique, we can asymptotically approximate the distribution of multi-step-ahead nonparametric estimation by the bootstrap. As a result, we can build bootstrap prediction intervals that are pertinent, i.e., can capture the model estimation variability, thus improving the standard quantile prediction intervals. Simulation studies are presented to illustrate the performance of our point predictions and pertinent prediction intervals for finite samples."
-  },
-  
-  {
-    "title": "Advance to Candidacy",
-    "url": "/posts/Candidacy/",
-    "categories": "",
-    "tags": "",
-    "date": "2023-06-01 00:00:00 -0700",
-    "content": "Thanks to my advisor Dimitris Politis and my committee members Danna Zhang, Ery Arias-Castro and Yian Ma.     Advance to Candidacy Slides"
-  },
-  
-  {
-    "title": "Paper Accepted: A Model-free Approach to Do Long-term Volatility Forecasting and Its Variants",
-    "url": "/posts/Financial-Innovation/",
-    "categories": "",
-    "tags": "",
-    "date": "2023-03-01 00:00:00 -0800",
-    "content": "Abstract  Volatility forecasting is important in financial econometrics and is mainly based on the application of various GARCH-type models. However, it is difficult to choose a specific GARCH model that works uniformly well across datasets, and the traditional methods are unstable when dealing with highly volatile or short-sized datasets. The newly proposed normalizing and variance stabilizing (NoVaS) method is a more robust and accurate prediction technique that can help with such datasets. This model-free method was originally developed by taking advantage of an inverse transformation based on the frame of the ARCH model. In this study, we conduct extensive empirical and simulation analyses to investigate whether it provides higher-quality long-term volatility forecasting than standard GARCH models. Specifically, we found this advantage to be more prominent with short and volatile data. Next, we propose a variant of the NoVaS method that possesses a more complete form and generally outperforms the current state-of-the-art NoVaS method. The uniformly superior performance of NoVaS-type methods encourages their wide application in volatility forecasting. Our analyses also highlight the flexibility of the NoVaS idea that allows the exploration of other model structures to improve existing models or solve specific prediction problems."
-  },
-  
-  {
-    "title": "Conference: Computational and Methodological Statistics (CMStatistics 2022)",
-    "url": "/posts/CMStatistics/",
-    "categories": "",
-    "tags": "",
-    "date": "2022-12-18 00:00:00 -0800",
-    "content": "I am glad to share the co-authored talk with Professor Oisín Ryan and Professor Nicholas C. Jacobson on Extracting Dynamic Features from Irregularly Spaced Time Series.     Talk Slides"
-  },
-  
-  {
     "title": "Receive Richard Libby Graduate Research Award",
     "url": "/posts/Richard-Libby-Research-Award/",
     "categories": "",
     "tags": "",
     "date": "2022-05-04 00:00:00 -0700",
     "content": "I am glad to receive the Richard Libby Graduate Research Award which supports my research for Summer 2022.  Thanks to Richard Libby!"
-  },
-  
-  {
-    "title": "Paper Accepted: Model-free Time-aggregated Predictions for Econometric Datasets",
-    "url": "/posts/Forecaasting/",
-    "categories": "",
-    "tags": "",
-    "date": "2021-12-08 00:00:00 -0800",
-    "content": "This is my first paper with Professor Karmakar. Thanks for his guidance!  Abstract  Forecasting volatility from econometric datasets is a crucial task in finance. To acquire meaningful volatility predictions, various methods were built upon GARCH-type models, but these classical techniques suffer from instability of short and volatile data. Recently, a novel existing normalizing and variance-stabilizing (NoVaS) method for predicting squared log-returns of financial data was proposed. This model-free method has been shown to possess more accurate and stable prediction performance than GARCH-type methods. However, whether this method can sustain this high performance for long-term prediction is still in doubt. In this article, we firstly explore the robustness of the existing NoVaS method for long-term time-aggregated predictions. Then, we develop a more parsimonious variant of the existing method. With systematic justification and extensive data analysis, our new method shows better performance than current NoVaS and standard GARCH(1,1) methods on both short- and long-term time-aggregated predictions. The success of our new method is remarkable since efficient predictions with short and volatile data always carry great importance. Additionally, this article opens potential avenues where one can design a model-free prediction structure to meet specific needs."
   }
   
 ]
