@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Zhichen Zhao</title>
   <subtitle></subtitle>
-  <updated>2026-01-17T13:52:07-08:00</updated>
+  <updated>2026-01-19T16:25:27-08:00</updated>
   <author>
     <name>Zhichen Zhao</name>
     <uri>http://localhost:4000/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Conference: IMS-ICSDS 2025</title>
     <link href="http://localhost:4000/posts/ICSDS/" rel="alternate" type="text/html" title="Conference: IMS-ICSDS 2025" />
-    <published>2025-12-16T00:00:00-08:00</published>
+    <published>2025-12-15T00:00:00-08:00</published>
   
-    <updated>2025-12-16T00:00:00-08:00</updated>
+    <updated>2025-12-15T00:00:00-08:00</updated>
   
     <id>http://localhost:4000/posts/ICSDS/</id>
     <content type="text/html" src="http://localhost:4000/posts/ICSDS/" />
@@ -36,20 +36,20 @@
     
   
 
-  <summary>I am glad to present a Talk entitled Deep Limit Model Free Prediction in Regression at the 2025 IMS International Conference on Statistics and Data Science, Seville, Spain.</summary>
+  <summary>I am glad to present a talk entitled Incremental Causal Effects for Time to Treatment at the 2025 IMS International Conference on Statistics and Data Science, Seville, Spain.</summary>
 
   </entry>
 
   
   <entry>
-    <title>Paper Accepted: Bootstrap Prediction Inference of Nonlinear Autoregressive Models</title>
-    <link href="http://localhost:4000/posts/JSTA1/" rel="alternate" type="text/html" title="Paper Accepted: Bootstrap Prediction Inference of Nonlinear Autoregressive Models" />
-    <published>2024-04-01T00:00:00-07:00</published>
+    <title>Receive Graduate and Professional Student Association Travel Grant Award</title>
+    <link href="http://localhost:4000/posts/GPSA-Travel-Grant-Award/" rel="alternate" type="text/html" title="Receive Graduate and Professional Student Association Travel Grant Award" />
+    <published>2025-10-27T00:00:00-07:00</published>
   
-    <updated>2024-04-01T00:00:00-07:00</updated>
+    <updated>2025-10-27T00:00:00-07:00</updated>
   
-    <id>http://localhost:4000/posts/JSTA1/</id>
-    <content type="text/html" src="http://localhost:4000/posts/JSTA1/" />
+    <id>http://localhost:4000/posts/GPSA-Travel-Grant-Award/</id>
+    <content type="text/html" src="http://localhost:4000/posts/GPSA-Travel-Grant-Award/" />
     <author>
       <name>Zhichen Zhao</name>
     </author>
@@ -58,20 +58,20 @@
     
   
 
-  <summary>Abstract  The nonlinear autoregressive (NLAR) model plays an important role in modeling and predicting time series. One-step ahead prediction is straightforward using the NLAR model, but the multi-step ahead prediction is cumbersome. For instance, iterating the one-step ahead predictor is a convenient strategy for linear autoregressive (LAR) models, but it is suboptimal under NLAR. In this arti...</summary>
+  <summary>I am pleased to receive the Graduate and Professional Student Association Travel Grant Award, which supports my conference travel in December 2025.  I sincerely thank the Graduate and Professional Student Association at the University of California, San Diego, for their support.</summary>
 
   </entry>
 
   
   <entry>
-    <title>Receive Richard Libby Graduate Research Award</title>
-    <link href="http://localhost:4000/posts/Richard-Libby-Research-Award/" rel="alternate" type="text/html" title="Receive Richard Libby Graduate Research Award" />
-    <published>2022-05-04T00:00:00-07:00</published>
+    <title>Conference: 2025 Annual Public Health Research Day</title>
+    <link href="http://localhost:4000/posts/Public-Health-Research-Day/" rel="alternate" type="text/html" title="Conference: 2025 Annual Public Health Research Day" />
+    <published>2025-05-07T00:00:00-07:00</published>
   
-    <updated>2022-05-04T00:00:00-07:00</updated>
+    <updated>2025-05-07T00:00:00-07:00</updated>
   
-    <id>http://localhost:4000/posts/Richard-Libby-Research-Award/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Richard-Libby-Research-Award/" />
+    <id>http://localhost:4000/posts/Public-Health-Research-Day/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Public-Health-Research-Day/" />
     <author>
       <name>Zhichen Zhao</name>
     </author>
@@ -80,7 +80,29 @@
     
   
 
-  <summary>I am glad to receive the Richard Libby Graduate Research Award which supports my research for Summer 2022.  Thanks to Richard Libby!</summary>
+  <summary>I am glad to present my poster entitled Incremental Causal Effects for Time to Treatment at the Herbert Wertheim School of Public Health and Human Longevity Science’s 2025 Annual Public Health Research Day, San Diego.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Paper Accepted: Incremental Causal Effect for Time to Treatment Initialization</title>
+    <link href="http://localhost:4000/posts/ICLR-Paper/" rel="alternate" type="text/html" title="Paper Accepted: Incremental Causal Effect for Time to Treatment Initialization" />
+    <published>2025-01-22T00:00:00-08:00</published>
+  
+    <updated>2025-01-22T00:00:00-08:00</updated>
+  
+    <id>http://localhost:4000/posts/ICLR-Paper/</id>
+    <content type="text/html" src="http://localhost:4000/posts/ICLR-Paper/" />
+    <author>
+      <name>Zhichen Zhao</name>
+    </author>
+
+  
+    
+  
+
+  <summary>This paper is published as a conference paper at the Thirteenth International Conference on Learning Representations (ICLR 2025), Singapore.  My collaborator, Andrew Ying, presented a poster entitled Incremental Causal Effect for Time to Treatment Initialization at ICLR 2025, Singapore.</summary>
 
   </entry>
 

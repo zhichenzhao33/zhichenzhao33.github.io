@@ -5,26 +5,35 @@
     "url": "/posts/ICSDS/",
     "categories": "",
     "tags": "",
-    "date": "2025-12-16 00:00:00 -0800",
-    "content": "I am glad to present a Talk entitled Deep Limit Model Free Prediction in Regression at the 2025 IMS International Conference on Statistics and Data Science, Seville, Spain."
+    "date": "2025-12-15 00:00:00 -0800",
+    "content": "I am glad to present a talk entitled Incremental Causal Effects for Time to Treatment at the 2025 IMS International Conference on Statistics and Data Science, Seville, Spain."
   },
   
   {
-    "title": "Paper Accepted: Bootstrap Prediction Inference of Nonlinear Autoregressive Models",
-    "url": "/posts/JSTA1/",
+    "title": "Receive Graduate and Professional Student Association Travel Grant Award",
+    "url": "/posts/GPSA-Travel-Grant-Award/",
     "categories": "",
     "tags": "",
-    "date": "2024-04-01 00:00:00 -0700",
-    "content": "Abstract  The nonlinear autoregressive (NLAR) model plays an important role in modeling and predicting time series. One-step ahead prediction is straightforward using the NLAR model, but the multi-step ahead prediction is cumbersome. For instance, iterating the one-step ahead predictor is a convenient strategy for linear autoregressive (LAR) models, but it is suboptimal under NLAR. In this article, we first propose a simulation and/or bootstrap algorithm to construct optimal point predictors under an $L_1$ or $L_2$ loss criterion. In addition, we construct bootstrap prediction intervals in the multi-step ahead prediction problem; in particular, we develop an asymptotically valid quantile prediction interval as well as a pertinent prediction interval for future values. To correct the undercoverage of prediction intervals with finite samples, we further employ predictive—as opposed to fitted—residuals in the bootstrap process. Simulation and empirical studies are also given to substantiate the finite sample performance of our methods."
+    "date": "2025-10-27 00:00:00 -0700",
+    "content": "I am pleased to receive the Graduate and Professional Student Association Travel Grant Award, which supports my conference travel in December 2025.  I sincerely thank the Graduate and Professional Student Association at the University of California, San Diego, for their support."
   },
   
   {
-    "title": "Receive Richard Libby Graduate Research Award",
-    "url": "/posts/Richard-Libby-Research-Award/",
+    "title": "Conference: 2025 Annual Public Health Research Day",
+    "url": "/posts/Public-Health-Research-Day/",
     "categories": "",
     "tags": "",
-    "date": "2022-05-04 00:00:00 -0700",
-    "content": "I am glad to receive the Richard Libby Graduate Research Award which supports my research for Summer 2022.  Thanks to Richard Libby!"
+    "date": "2025-05-07 00:00:00 -0700",
+    "content": "I am glad to present my poster entitled Incremental Causal Effects for Time to Treatment at the Herbert Wertheim School of Public Health and Human Longevity Science’s 2025 Annual Public Health Research Day, San Diego."
+  },
+  
+  {
+    "title": "Paper Accepted: Incremental Causal Effect for Time to Treatment Initialization",
+    "url": "/posts/ICLR-Paper/",
+    "categories": "",
+    "tags": "",
+    "date": "2025-01-22 00:00:00 -0800",
+    "content": "This paper is published as a conference paper at the Thirteenth International Conference on Learning Representations (ICLR 2025), Singapore.  My collaborator, Andrew Ying, presented a poster entitled Incremental Causal Effect for Time to Treatment Initialization at ICLR 2025, Singapore."
   }
   
 ]
